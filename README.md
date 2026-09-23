@@ -259,10 +259,5 @@ Second-Chance-Youth-Foundation/
 │
 └── README.md
 
----
-
-**# References**
-```text
-Stockcake, no date. *Children holding hands*. No city of publication: Stockcake.
 
 
