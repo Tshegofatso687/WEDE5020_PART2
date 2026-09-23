@@ -261,8 +261,8 @@ Second-Chance-Youth-Foundation/
 
 ---
 
-# References
-
+**# References**
+```text
 Stockcake, no date. *Children holding hands*. No city of publication: Stockcake.
 
 
