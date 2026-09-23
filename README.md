@@ -253,6 +253,7 @@ Second-Chance-Youth-Foundation/
 ├── enquiry.html
 ├── contact.html
 ├── logo.png
+├── kids.jpg
 │
 ├── css/
 │   └── style.css
